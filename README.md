@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apurva Upadhyay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently worked on **BIN IMPROVEMENT MANAGEMENT SYSTEM**
+- 🔭 I have currently worked on **BIN IMPROVEMENT MANAGEMENT SYSTEM**
 
 - 🌱 I’m currently learning **COMPUTER GRAPHICS**
 
